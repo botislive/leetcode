@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/botislive/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/botislive/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0965-unique-email-addresses](https://github.com/botislive/leetcode/tree/master/0965-unique-email-addresses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
+| [0965-unique-email-addresses](https://github.com/botislive/leetcode/tree/master/0965-unique-email-addresses) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/botislive/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0965-unique-email-addresses](https://github.com/botislive/leetcode/tree/master/0965-unique-email-addresses) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/botislive/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [3396-valid-word](https://github.com/botislive/leetcode/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
