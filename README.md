@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/botislive/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0965-unique-email-addresses](https://github.com/botislive/leetcode/tree/master/0965-unique-email-addresses) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/botislive/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/botislive/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/botislive/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Two Pointers
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/botislive/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/botislive/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/botislive/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+## Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/botislive/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/botislive/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
