@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/botislive/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0965-unique-email-addresses](https://github.com/botislive/leetcode/tree/master/0965-unique-email-addresses) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/botislive/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/botislive/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/botislive/leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/botislive/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 <!---LeetCode Topics End-->
