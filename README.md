@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/botislive/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/botislive/leetcode/tree/master/0136-single-number) |
+| [0239-sliding-window-maximum](https://github.com/botislive/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/botislive/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/botislive/leetcode/tree/master/0561-array-partition) |
@@ -85,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/botislive/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/botislive/leetcode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/botislive/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/botislive/leetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/botislive/leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/botislive/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/botislive/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
