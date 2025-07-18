@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/botislive/leetcode/tree/master/1217-relative-sort-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/botislive/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/botislive/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/botislive/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2442-number-of-arithmetic-triplets](https://github.com/botislive/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/botislive/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/botislive/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/botislive/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/botislive/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Greedy
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/botislive/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/botislive/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/botislive/leetcode/tree/master/0480-sliding-window-median) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/botislive/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
