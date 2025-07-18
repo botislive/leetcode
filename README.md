@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/botislive/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/botislive/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0480-sliding-window-median](https://github.com/botislive/leetcode/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/botislive/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/botislive/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/botislive/leetcode/tree/master/0561-array-partition) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/botislive/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/botislive/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0480-sliding-window-median](https://github.com/botislive/leetcode/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/botislive/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/botislive/leetcode/tree/master/0965-unique-email-addresses) |
 | [1217-relative-sort-array](https://github.com/botislive/leetcode/tree/master/1217-relative-sort-array) |
@@ -112,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/botislive/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/botislive/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/botislive/leetcode/tree/master/0480-sliding-window-median) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/botislive/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/botislive/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0480-sliding-window-median](https://github.com/botislive/leetcode/tree/master/0480-sliding-window-median) |
 ## Monotonic Queue
 |  |
 | ------- |
