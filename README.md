@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/botislive/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/botislive/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/botislive/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/botislive/leetcode/tree/master/0561-array-partition) |
 | [0965-unique-email-addresses](https://github.com/botislive/leetcode/tree/master/0965-unique-email-addresses) |
 | [1137-height-checker](https://github.com/botislive/leetcode/tree/master/1137-height-checker) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/botislive/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/botislive/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/botislive/leetcode/tree/master/0965-unique-email-addresses) |
 | [1217-relative-sort-array](https://github.com/botislive/leetcode/tree/master/1217-relative-sort-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/botislive/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/botislive/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/botislive/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Enumeration
 |  |
 | ------- |
