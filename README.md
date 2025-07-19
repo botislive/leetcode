@@ -61,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/botislive/leetcode/tree/master/0400-nth-digit) |
 | [2481-strictly-palindromic-number](https://github.com/botislive/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/botislive/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/botislive/leetcode/tree/master/0400-nth-digit) |
 | [0792-binary-search](https://github.com/botislive/leetcode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/botislive/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
