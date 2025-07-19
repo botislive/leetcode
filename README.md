@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/botislive/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/botislive/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/botislive/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/botislive/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/botislive/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/botislive/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2128-reverse-prefix-of-word](https://github.com/botislive/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/botislive/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/botislive/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3396-valid-word](https://github.com/botislive/leetcode/tree/master/3396-valid-word) |
 ## Brainteaser
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/botislive/leetcode/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/botislive/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/botislive/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Counting Sort
 |  |
 | ------- |
