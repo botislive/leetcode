@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/botislive/leetcode/tree/master/0965-unique-email-addresses) |
 | [1137-height-checker](https://github.com/botislive/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/botislive/leetcode/tree/master/1217-relative-sort-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/botislive/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/botislive/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/botislive/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/botislive/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/botislive/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/botislive/leetcode/tree/master/0125-valid-palindrome) |
 | [0965-unique-email-addresses](https://github.com/botislive/leetcode/tree/master/0965-unique-email-addresses) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/botislive/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2128-reverse-prefix-of-word](https://github.com/botislive/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/botislive/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [3396-valid-word](https://github.com/botislive/leetcode/tree/master/3396-valid-word) |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/botislive/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/botislive/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/botislive/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
