@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/botislive/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/botislive/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/botislive/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/botislive/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/botislive/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/botislive/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/botislive/leetcode/tree/master/0053-maximum-subarray) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/botislive/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/botislive/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Greedy
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/botislive/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/botislive/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/botislive/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
