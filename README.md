@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/botislive/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/botislive/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/botislive/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/botislive/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/botislive/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/botislive/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/botislive/leetcode/tree/master/0136-single-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/botislive/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/botislive/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/botislive/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/botislive/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/botislive/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/botislive/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
