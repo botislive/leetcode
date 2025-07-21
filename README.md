@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/botislive/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/botislive/leetcode/tree/master/0125-valid-palindrome) |
 | [0965-unique-email-addresses](https://github.com/botislive/leetcode/tree/master/0965-unique-email-addresses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/botislive/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/botislive/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2128-reverse-prefix-of-word](https://github.com/botislive/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/botislive/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
