@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/botislive/leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/botislive/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/botislive/leetcode/tree/master/0400-nth-digit) |
 | [2481-strictly-palindromic-number](https://github.com/botislive/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/botislive/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/botislive/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/botislive/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/botislive/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/botislive/leetcode/tree/master/0400-nth-digit) |
