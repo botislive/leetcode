@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/botislive/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/botislive/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/botislive/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/botislive/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/botislive/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/botislive/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/botislive/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/botislive/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/botislive/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/botislive/leetcode/tree/master/0400-nth-digit) |
