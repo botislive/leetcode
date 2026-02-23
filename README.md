@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/botislive/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/botislive/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/botislive/leetcode/tree/master/0561-array-partition) |
+| [0704-binary-search](https://github.com/botislive/leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/botislive/leetcode/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/botislive/leetcode/tree/master/0965-unique-email-addresses) |
 | [1137-height-checker](https://github.com/botislive/leetcode/tree/master/1137-height-checker) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/botislive/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/botislive/leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/botislive/leetcode/tree/master/0400-nth-digit) |
+| [0704-binary-search](https://github.com/botislive/leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/botislive/leetcode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/botislive/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
